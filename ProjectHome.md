@@ -1,0 +1,1 @@
+The project aims at developing a chemoinformatics package by python
